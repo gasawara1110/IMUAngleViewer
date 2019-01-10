@@ -1,0 +1,10 @@
+C:\Users\mg114980\Documents\IMUAngleViewer\IMUAngleViewer\bin\Debug\IMUAngleViewer.exe.config
+C:\Users\mg114980\Documents\IMUAngleViewer\IMUAngleViewer\bin\Debug\IMUAngleViewer.exe
+C:\Users\mg114980\Documents\IMUAngleViewer\IMUAngleViewer\bin\Debug\IMUAngleViewer.pdb
+C:\Users\mg114980\Documents\IMUAngleViewer\IMUAngleViewer\obj\Debug\IMUAngleViewer.csprojResolveAssemblyReference.cache
+C:\Users\mg114980\Documents\IMUAngleViewer\IMUAngleViewer\obj\Debug\IMUAngleViewer.Form1.resources
+C:\Users\mg114980\Documents\IMUAngleViewer\IMUAngleViewer\obj\Debug\IMUAngleViewer.Properties.Resources.resources
+C:\Users\mg114980\Documents\IMUAngleViewer\IMUAngleViewer\obj\Debug\IMUAngleViewer.csproj.GenerateResource.Cache
+C:\Users\mg114980\Documents\IMUAngleViewer\IMUAngleViewer\obj\Debug\IMUAngleViewer.csproj.CoreCompileInputs.cache
+C:\Users\mg114980\Documents\IMUAngleViewer\IMUAngleViewer\obj\Debug\IMUAngleViewer.exe
+C:\Users\mg114980\Documents\IMUAngleViewer\IMUAngleViewer\obj\Debug\IMUAngleViewer.pdb
